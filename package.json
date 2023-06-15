@@ -13,6 +13,7 @@
     "url": "https://github.com/tree-sitter/tree-sitter-verilog/issues"
   },
   "main": "bindings/node",
+  "types": "tree-sitter-verilog.d.ts",
   "files": [
     "grammar.js",
     "bindings",
